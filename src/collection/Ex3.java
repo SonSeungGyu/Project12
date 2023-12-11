@@ -15,6 +15,7 @@ public class Ex3 {
 		hash.add("도우너"); //중복된 값은 추가 불가
 		
 		System.out.println("set 목록: " + hash);
+		
 		System.out.println("크기: " + hash.size());
 		
 		hash.remove("도우너");
