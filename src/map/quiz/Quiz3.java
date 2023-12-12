@@ -18,6 +18,7 @@ public class Quiz3 {
 		while(keys.hasNext()) {
 			String key = keys.next();
 			System.out.println("[과목명]: " + key);
+			
 			System.out.println("[점수]: " + map.get(key));
 		}
 		

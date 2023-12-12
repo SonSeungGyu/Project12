@@ -21,6 +21,7 @@ public class Ex3 {
 		System.out.println(map.get(1002));
 		System.out.println(map.get(1003));
 		
+		
 		//1번째 회원 삭제
 		map.remove(1001);
 		
